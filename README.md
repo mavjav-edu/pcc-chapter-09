@@ -83,4 +83,4 @@ and `random` modules.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-08)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-10)
+[&#10094; Prev](../../../pcc-chapter-08)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-10)
