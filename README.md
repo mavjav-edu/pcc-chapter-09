@@ -131,7 +131,7 @@ separate module. In a separate file, create an `Admin` instance and call
 <span id="page_186"></span>
 ## TRY IT YOURSELF #5
 
-<span id="ch9exe13"></span>**9-13. OrderedDict Rewrite:** Start with
+<span id="ch9exe13"></span>**9-13. [OrderedDict](https://pymotw.com/3/collections/ordereddict.html) Rewrite:** Start with
 [Exercise 6-4](../../../pcc_2e/tree/master/chapter_06/README.md#ch6exe4) ([page 108](../../../pcc_2e/tree/master/chapter_06/README.md#page_108)),
 where you used a standard dictionary to represent a glossary. Rewrite
 the program using the `OrderedDict` class and make sure the order of the
