@@ -138,9 +138,9 @@ the program using the `OrderedDict` class and make sure the order of the
 output matches the order in which key-value pairs were added to the
 dictionary.
 
-<span id="ch9exe14"></span>**9-14. Dice:** The module `random` contains
+<span id="ch9exe14"></span>**9-14. Dice:** The [module `random`](https://pymotw.com/3/random/index.html) contains
 functions that generate random numbers in a variety of ways. The
-function `randint()` returns an integer in the range you provide. The
+[function `randint()`](https://pymotw.com/3/random/index.html#random-integers) returns an integer in the range you provide. The
 following code returns a number between 1 and 6:
 
 ``` python
