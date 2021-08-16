@@ -10,7 +10,7 @@ equipped with the general behavior; you can then give each object
 whatever unique traits you desire. You’ll be amazed how well real-world
 situations can be modeled with object-oriented programming.
 
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 <span id="ch9exe1"></span>**9-1. Restaurant:** Make a class called
 `Restaurant`. The `__init__()` method for `Restaurant` should store two
@@ -37,7 +37,9 @@ prints a personalized greeting to the user.
 Create several instances representing different users, and call both
 methods for each user.
 
-## TRY IT YOURSELF #2
+![Computer terminal greeting to professor Falken from the film 'War Games'](./0_uPBpGH9lG96kP3_j_.gif)
+
+## TRY IT YOURSELF Ⓑ
 
 <span id="ch9exe4"></span>**9-4. Number Served:** Start with your
 program from [Exercise 9-1](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe1) ([page
@@ -68,7 +70,7 @@ Make an instance of the `User` class and call
 `reset_login_attempts()`. Print `login_attempts` again to make sure it
 was reset to 0.
 
-## TRY IT YOURSELF #3
+## TRY IT YOURSELF Ⓒ
 
 <span id="ch9exe6"></span>**9-6. Ice Cream Stand:** An ice cream stand
 is a specific kind of restaurant. Write a class called `IceCreamStand`
@@ -106,7 +108,7 @@ electric car with a default battery size, call `get_range()` once, and
 then call `get_range()` a second time after upgrading the battery. You
 should see an increase in the car&rsquo;s range.
 
-## TRY IT YOURSELF #4
+## TRY IT YOURSELF Ⓓ
 
 <span id="ch9exe10"></span>**9-10. Imported Restaurant:** Using your
 latest `Restaurant` class, store it in a module. Make a separate file
@@ -129,7 +131,7 @@ separate module. In a separate file, create an `Admin` instance and call
 
 
 <span id="page_186"></span>
-## TRY IT YOURSELF #5
+## TRY IT YOURSELF Ⓔ
 
 <span id="ch9exe13"></span>**9-13. [OrderedDict](https://pymotw.com/3/collections/ordereddict.html) Rewrite:** Start with
 [Exercise 6-4](../../../pcc_2e/tree/master/chapter_06/README.md#ch6exe4) ([page 108](../../../pcc_2e/tree/master/chapter_06/README.md#page_108)),
