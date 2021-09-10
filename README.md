@@ -118,7 +118,7 @@ properly.
 
 <span id="ch9exe11"></span>**9-11. Imported Admin:** Start with your
 work from [Exercise 9-8](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe8) ([page
-178](../../../pcc_2e/tree/master/chapter_09/README.md#page_178)). Store the classes `User`, `Privileges`, and
+178](#page_178)). Store the classes `User`, `Privileges`, and
 `Admin` in one module. Create a separate file, make an `Admin` instance,
 and call `show_privileges()` to show that everything is working
 correctly.
