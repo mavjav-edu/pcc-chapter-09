@@ -23,7 +23,7 @@ Make an instance called `restaurant` from your class. Print the two
 attributes individually, and then call both methods.
 
 <span id="ch9exe2"></span>**9-2. Three Restaurants:** Start with your
-class from [Exercise 9-1](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe1). Create three different
+class from [Exercise 9-1](#ch9exe1). Create three different
 instances from the class, and call `describe_restaurant()` for each
 instance.
 
@@ -42,7 +42,7 @@ methods for each user.
 ## TRY IT YOURSELF Ⓑ
 
 <span id="ch9exe4"></span>**9-4. Number Served:** Start with your
-program from [Exercise 9-1](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe1) ([page
+program from [Exercise 9-1](#ch9exe1) ([page
 166](../../../pcc_2e/tree/master/chapter_09/README.md#page_166)). Add an attribute called `number_served` with
 a default value of 0. Create an instance called `restaurant` from this
 class. Print the number of customers the restaurant has served, and then
@@ -59,7 +59,7 @@ say, a day of business.
 
 <span id="ch9exe5"></span>**9-5. Login Attempts:** Add an attribute
 called `login_attempts` to your `User` class from [Exercise
-9-3](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe3) ([page 166](../../../pcc_2e/tree/master/chapter_09/README.md#page_166)). Write a method
+9-3](#ch9exe3) ([page 166](../../../pcc_2e/tree/master/chapter_09/README.md#page_166)). Write a method
 called `increment_login_attempts()` that increments the value of
 `login_attempts` by 1. Write another method called
 `reset_login_attempts()` that resets the value of `login_attempts` to 0.
@@ -75,7 +75,7 @@ was reset to 0.
 <span id="ch9exe6"></span>**9-6. Ice Cream Stand:** An ice cream stand
 is a specific kind of restaurant. Write a class called `IceCreamStand`
 that inherits from the `Restaurant` class you wrote in [Exercise
-9-1](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe1) ([page 166](../../../pcc_2e/tree/master/chapter_09/README.md#page_166)) or [Exercise
+9-1](#ch9exe1) ([page 166](../../../pcc_2e/tree/master/chapter_09/README.md#page_166)) or [Exercise
 9-4](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe4) ([page 171](../../../pcc_2e/tree/master/chapter_09/README.md#page_171)). Either version
 of the class will work; just pick the one you like better. Add an
 attribute called `flavors` that stores a list of ice cream flavors.
@@ -84,7 +84,7 @@ Write a method that displays these flavors. Create an instance of
 
 <span id="ch9exe7"></span>**9-7. Admin:** An administrator is a special
 kind of user. Write a class called `Admin` that inherits from the `User`
-class you wrote in [Exercise 9-3](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe3) ([page
+class you wrote in [Exercise 9-3](#ch9exe3) ([page
 166](../../../pcc_2e/tree/master/chapter_09/README.md#page_166)) or [Exercise 9-5](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe5) ([page
 171](../../../pcc_2e/tree/master/chapter_09/README.md#page_171)). Add an attribute, `privileges`, that stores a
 list of strings like `"can add post"`, `"can delete post"`,
@@ -95,7 +95,7 @@ that lists the administrator&rsquo;s set of privileges. Create an instance of
 <span id="ch9exe8"></span>**9-8. Privileges:** Write a separate
 `Privileges` class. The class should have one attribute, `privileges`,
 that stores a list of strings as described in [Exercise
-9-7](../../../pcc_2e/tree/master/chapter_09/README.md#ch9exe7). Move the `show_privileges()` method to this
+9-7](#ch9exe7). Move the `show_privileges()` method to this
 class. Make a `Privileges` instance as an attribute in the `Admin`
 class. Create a new instance of `Admin` and use your method to show its
 privileges.
